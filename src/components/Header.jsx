@@ -51,8 +51,6 @@ export default function Header() {
                   <div className="w-0 absolute transition-all ease-in-out duration-300 border-b border-white group-hover:w-full"></div>
                 </li>
               </Link>
-
-
             </ul>
           </div>
         </div>

@@ -29,12 +29,6 @@ export default function ToggleMenu(props) {
         <Link to={`/contact`}>
           <li className="text-5xl font-playfair text-white mb-4">Contact</li>
         </Link>
-        <Link to={`/blog`}>
-          <li className="text-5xl font-playfair text-white mb-4">Blog</li>
-        </Link>
-        <Link to={`/portfolio`}>
-          <li className="text-5xl font-playfair text-white mb-4">Portfolio</li>
-        </Link>
       </ul>
     </div>
   );

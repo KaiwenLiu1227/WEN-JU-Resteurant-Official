@@ -15,7 +15,7 @@ export default function Hero(props) {
           Real Chinese Cuisine!
         </h1>
         <p className="text-gray-300 text-center">
-          Embark on a culinary journey at W E N & J U, where every dish is a
+          Embark on a culinary journey at WEN & JU, where every dish is a
           masterpiece of flavor and innovation. Immerse yourself in the art of
           elevated cuisine, where zero compromises meet maximum taste. Welcome
           to a dining experience that transcends expectations.
